@@ -8,8 +8,8 @@
 ## 🚀 About Me
 - 🔭 Working on **React, Angular, Node and Java LWC**  
 - 🌱 Expanding into **Spring Boot (Kotlin/Java)** and **cloud architecture**  
-- 👯 Love collaborating on **full-stack apps, dashboards, and automation projects**  
-- ⚡ Fun fact: I’m a **woodworker & passionate cook** outside of coding  
+- 🤝 Love collaborating on **full-stack apps, dashboards, and automation projects**  
+- ⚡ Fun fact: I’m a **Wood worker & passionate cook** outside of coding  
 
 ---
 
