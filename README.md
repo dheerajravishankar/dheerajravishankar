@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **React, Angular, Node, and Power Platform solutions**  
+- 🔭 I’m currently working on **React, Angular, Node, and Java LWC**  
 - 🌱 Learning **Spring Boot (Kotlin/Java)** and **cloud architecture**  
 - 👯 Open to collaborating on **full-stack apps, dashboards, and automation projects**  
 - ⚡ Fun fact: I’m also a **woodworker & passionate cook**  
