@@ -1,39 +1,57 @@
-# Hi there 👋, I'm Dheeraj
-
-💻 Full-Stack Software Engineer | Web Designer | 📊 Data & Analytics Enthusiast  
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dheeraj+Ravishankar;Full-Stack+Engineer+%7C+Power+Platform+Builder;React+%7C+Angular+%7C+Node+%7C+Java+%7C+LWC;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **React, Angular, Node, and Java LWC**  
-- 🌱 Learning **Spring Boot (Kotlin/Java)** and **cloud architecture**  
-- 👯 Open to collaborating on **full-stack apps, dashboards, and automation projects**  
-- ⚡ Fun fact: I’m also a **woodworker & passionate cook**  
+- 🔭 Working on **React, Angular, Node and Java LWC**  
+- 🌱 Expanding into **Spring Boot (Kotlin/Java)** and **cloud architecture**  
+- 👯 Love collaborating on **full-stack apps, dashboards, and automation projects**  
+- ⚡ Fun fact: I’m a **woodworker & passionate cook** outside of coding  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajRavishankar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRavishankar&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DheerajRavishankar&theme=radical)
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajRavishankar&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajRavishankar&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRavishankar&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react)  ![Angular](https://img.shields.io/badge/Framework-Angular-red?style=flat&logo=angular)  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js)  ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)  ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DheerajRavishankar&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DheerajRavishankar&theme=radical" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://dheerajravishankar.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheerajravishankar)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/dheerajravishankar)  
+<p align="center">
+  <a href="https://dheerajravishankar.com"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://linkedin.com/in/dheerajravishankar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/dheerajravishankar"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
-⭐️ From [DheerajRavishankar](https://github.com/DheerajRavishankar)
+
+<p align="center">⭐️ From <a href="https://github.com/DheerajRavishankar">DheerajRavishankar</a></p>
