@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7ae280&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Dheeraj+Ravishankar; Full-Stack+Engineer;React+%7C+Angular+%7C+Node+%7C+Java+%7C+LWC;Always+open+to+learn+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7ae280&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Dheeraj+Ravishankar;Full-Stack+Engineer;React+%7C+Angular+%7C+Node+%7C+Java+%7C+LWC;Always+open+to+learn+new+things+🚀" alt="Typing SVG" />
 </p>
 
 ---
